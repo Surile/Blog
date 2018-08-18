@@ -19,7 +19,7 @@ tags:
 ---
    git subtree 可以实现一个仓库作为其他仓库的子仓库。
 
-   ![subtree](https://ws4.sinaimg.cn/large/006a7eb0gy1fudzdrze4mj30m809pjt7.jpg "subtree")
+   ![subtree](https://ws4.sinaimg.cn/large/006a7eb0gy1fudzdrze4mj30m809pjt7.jpg )
 
    使用git subtree 有以下几个原因：
    + 旧版本的git也支持(最老版本可以到 v1.5.2).
@@ -75,7 +75,7 @@ tags:
 
    这步做完之后就可以在 GitHub 上看见 gh-pages 分支了。GitHub 会自动部署 gh-pages 里的静态文件。
    点开 Settings，将会看到以下内容。勾出绿色部分则是你的URL
-   ![2018-08-18-17-50-53](./img/2018-08-18-17-50-53.png )
+   ![2018-08-18-17-50-53](http://ox54z18lh.bkt.clouddn.com/2018-08-18-17-50-53.png )
    
    当我们修改项目完成之后，肯定是要从前 build 的。这时使用以下命令，则就没用了。
    ```bash
@@ -85,7 +85,7 @@ tags:
         git subtree push --prefix build origin gh-pages
    ```
    会出现以下错误。
-   ![2018-08-18-17-58-08](./img/2018-08-18-17-58-08.png)
+   ![2018-08-18-17-58-08](http://ox54z18lh.bkt.clouddn.com/2018-08-18-17-58-08.png )
 
    出现这种错误，根据提示我们可以看出来，是要让我们强行将 build 推送到远程gh-pages 分支上，则可以用以下命令
 
@@ -93,7 +93,7 @@ tags:
         git push origin `git subtree split --prefix build master`:gh-pages --force
    ```
 
-   ![2018-08-18-18-02-06](./img/2018-08-18-18-02-06.png "2018-08-18-18-02-06")
+   ![2018-08-18-18-02-06](http://ox54z18lh.bkt.clouddn.com/2018-08-18-18-02-06.png )
 
    运行命令，则可以强制将 build 文件夹推送到远程 gh-pages 分支上了。
 
