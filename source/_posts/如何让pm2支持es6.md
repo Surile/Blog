@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: 如何让pm2支持es6？
+title: 如何让pm2支持es6
 date: 2018-08-18 16:02:30
 categories: node 
 tags: 

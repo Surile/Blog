@@ -1,8 +1,9 @@
 ---
 title: vue项目脚手架说明
-date: 2018-05-17 18:20:29
 tags: vue
 categories: vue
+abbrlink: 35aee3e
+date: 2018-05-17 18:20:29
 ---
 
 ## Vue 项目脚手架搭建说明

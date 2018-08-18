@@ -1,10 +1,11 @@
 ---
 title: 'Hexo博客搭建：（二）Hexo 配置,安装 Next 主题'
-date: 2018-04-29 01:06:47
-tags: 
-    - Hexo
-    - Next
+tags:
+  - Hexo
+  - Next
 categories: hexo
+abbrlink: 92c6870c
+date: 2018-04-29 01:06:47
 ---
 
 ## 前言

@@ -14,7 +14,11 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.surile.cn
 root: /
-permalink: category/:year/:month/:day/:title.html
+# permalink: category/:year/:month/:day/:title.html
+permalink: posts/:abbrlink.html
+abbrlink:
+  alg: crc32  # 算法：crc16(default) and crc32
+  rep: hex    # 进制：dec(default) and hex
 permalink_defaults:
 
 # Directory
@@ -74,6 +78,12 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+## 站点地图
+
+sitemap: sitemap.xml
+baidusitemap: baidusitemap.xml
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

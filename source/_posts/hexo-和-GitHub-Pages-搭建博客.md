@@ -1,10 +1,11 @@
 ---
 title: Hexo博客搭建：（一）安装及使用初体验
-date: 2018-04-28 22:32:45
-tags: 
-    - hexo 
-    - github
+tags:
+  - hexo
+  - github
 categories: hexo
+abbrlink: df2452f4
+date: 2018-04-28 22:32:45
 ---
 
 ## 前言
