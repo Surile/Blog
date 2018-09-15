@@ -123,5 +123,8 @@ tags: Javascript
 
 - 会修改函数内部变量的值。
 
+### 参考链接
 
-
+[学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+[理解闭包](https://segmentfault.com/a/1190000009795532)
+[讲清楚之javascript作用域](https://segmentfault.com/a/1190000014980841)
