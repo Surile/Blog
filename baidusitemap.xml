@@ -89,6 +89,28 @@
 
     
   <url>
+    <loc>http://www.surile.cn/category/2018/08/18/%E5%88%A9%E7%94%A8-git-subtree-%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE%E5%88%B0-github.html</loc>
+    <lastmod>2018-12-10T10:10:39.344Z</lastmod>
+    <data>
+        <display>
+        <title>部署项目到 GitHub</title>
+        <pubTime>2018-08-18T09:21:48.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>node</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://www.surile.cn/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.surile.cn/category/2018/05/17/vue%E9%A1%B9%E7%9B%AE%E8%84%9A%E6%89%8B%E6%9E%B6%E8%AF%B4%E6%98%8E.html</loc>
     <lastmod>2018-12-10T10:10:39.344Z</lastmod>
     <data>
@@ -102,28 +124,6 @@
            
              
               <breadCrumb title="vue" url="http://www.surile.cn/categories/vue/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.surile.cn/category/2018/08/18/%E5%88%A9%E7%94%A8-git-subtree-%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE%E5%88%B0-github.html</loc>
-    <lastmod>2018-12-10T10:10:39.344Z</lastmod>
-    <data>
-        <display>
-        <title>部署项目到 GitHub</title>
-        <pubTime>2018-08-18T09:21:48.000Z</pubTime>
-        
-        <tag>node</tag>
-         
-        <tag>git</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://www.surile.cn/categories/git/"/>
           
         </display>
     </data>
