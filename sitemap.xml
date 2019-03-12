@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.surile.cn//404.html</loc>
+    
+    <lastmod>2019-03-12T07:05:49.449Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.surile.cn/category/2019/03/11/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%9D%91.html</loc>
     
-    <lastmod>2019-03-12T05:46:46.062Z</lastmod>
+    <lastmod>2019-03-12T07:03:07.630Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://www.surile.cn/about/index.html</loc>
     
     <lastmod>2019-03-12T05:35:29.751Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.surile.cn//404.html</loc>
-    
-    <lastmod>2019-03-11T07:50:19.780Z</lastmod>
     
   </url>
   
